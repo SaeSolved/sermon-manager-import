@@ -15,7 +15,7 @@ Provides the ability to import sermons from the Church Theme Content plugin into
 
 Provides the ability to import sermons from the Church Theme Content plugin into the Sermon Manager plugin
 
-Copyright 2011-2016 M.D. Green, SaeSolved:: LLC
+Copyright 2011-2017 M.D. Green, SaeSolved:: LLC
 
 == License ==
 
@@ -42,5 +42,5 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 
 
-= 0.1 =
-Initial release
+= 0.0 =
+Set up skeleton of needed code

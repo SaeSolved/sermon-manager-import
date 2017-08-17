@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Sermon Manager Import
- * @version 0.1
+ * @version 0.0
  */
 
 /*
 Plugin Name: Sermon Manager Import
 Plugin URI:
 Description: Provides the ability to import sermons into the Sermon Manager plugin.
-Version: 0.1
+Version: 0.0
 Author: M.D. Green
 Author URI: http://www.saesolved.com/
 
